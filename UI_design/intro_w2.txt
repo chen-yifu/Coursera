@@ -1,0 +1,44 @@
+***NOTE*** Hi Peer Viewer, I am doing this homework following my own real-world topic,
+instead of using the given prompts. Therefore, the responses in this assignment may differ
+from your answer, but please allow me to pass this course while completing the real-world-based
+project on a "health forum summarization software" that I am trying to build. Thank you!!!!!!
+
+
+
+Q1:
+A task-description for a complete task that a learner might wish to accomplish in
+ some form of educational system including, but not limited to Coursera or other MOOCs.
+ The task description should reflect something more complex than a single step, and
+ as would be true with any task description, it cannot be tied to the specific interface.
+
+A walkthrough scenario for the task you've described as it would be carried out on some
+Coursera platform (can be web, mobile, etc.). Identify the platform, and provide a
+sequenced list of steps to carry out the task.
+
+Healthcare practitioner perspective:
+
+Jane is a healthcare policymaker. She would like to ensure that the policy she helps makes have a positive impact on the patients' lives. To better understand the patients, she decides to read the conversations on medical-related forums.
+
+She read posts but found it difficult to understand the big picture: "What do people who suffer from multiple sclerosis (a policy she's working on is related to MS) need help with?" Jane wondered.
+
+Jane decides to use our forum-mining software because it provides an overview of thousands of online posts. She launched the software by visiting www.___.com and selects the MS patient group. Within seconds, an interactive sentiment visualization dashboard is loaded. The dashboard provides both macro-information graphics as well as a scrollable "example pane" with real top-voted posts about MS.
+
+In the macro-graphic charts, she sees a pie chart showing (for example) 50% of people are happy with the cost of their MS treatments, 25% are unhappy, and 25% are extremely unhappy (distinguished by an angry face emoji). She hovers the mouse over the slice for "extremely unhappy" posts, a floating pie chart appears, showing that 50% are talking about Drug A, 25% are talking about Drug B, etc.
+
+During these interactions with the dashboard, the scrollable example pane is updated dynamically to allow detailed post-level exploration of the different clusters.
+
+She launched the software by visiting www.___.com and selects the MS patient group. Within seconds, an interactive sentiment visualization dashboard is loaded. The dashboard provides both macro-information graphics as well as a scrollable "example pane" with real top-voted posts about MS.
+
+In the macro-graphic charts, she sees a pie chart showing (for example) 50% of people are happy with the cost of their MS treatments, 25% are unhappy, and 25% are extremely unhappy (distinguished by an angry face emoji). She hovers the mouse over the slice for "extremely unhappy" posts, a floating pie chart appears, showing that 50% are talking about Drug A, 25% are talking about Drug B, etc.
+
+During these interactions with the dashboard, the scrollable example pane is updated dynamically to allow detailed post-level exploration of the different clusters. By reading the posts of her research interest, she understands that most people are unhappy about the cost for Drug A is because their insurance company does not cover the costs. 
+
+
+
+Patient perspective:
+
+Harry is a 50-year-old male who is recently diagnosed with MS. His doctor recommended Drug A to him along with alternative choices including Drug B and C. Harry wants to know if Drug B or C will be better for him than Drug A. He visits www.___.com. He selects the people who share the same age group, gender to see what other people with the same demographics are saying about Drug A, B and C.
+
+On the dashboard, Harry multi-selected Drug A, B, and C among all MS drugs. Then, posts that mention Drug A, B, and C are loaded, and the sentiment overview shows that most people are satisfied with Drug A, but not as many people are satisfied with B and C. He also sees that most people are satisfied with Drug A to have the following top 3 reasons: 1. "effective", 2. "cheap", 3. "fewer side-effects". However, he sees the top 3 reasons for people who prefer Drug B are: 1. "fewer side-effects", 2. "effective", 3. "availability".
+
+Since Harry lives in a small town and has other chronic diseases, he thinks Drug B is better for his case than A and C. He discusses drug B with his doctor and gets a prescription for Drug B as result.

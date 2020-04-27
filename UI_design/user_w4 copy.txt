@@ -1,0 +1,7 @@
+***NOTE*** Hi Peer Viewer, I am doing this homework following my own real-world topic,
+instead of using the given prompts. Therefore, the responses in this assignment may differ
+from your answer, but please allow me to pass this course while completing the real-world-based
+project on a "health forum summarization software" that I am trying to build. Thank you!!!!!!
+
+
+Context: 100 ideas for summarizing health forum conversations using big data
