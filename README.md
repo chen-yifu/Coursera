@@ -1,3 +1,8 @@
 # Coursera
 
-A repoistory for some deep learning projects.
+A repoistory for some Coursera projects.
+
+Contents:
+- Deep learning
+- UI design
+-
